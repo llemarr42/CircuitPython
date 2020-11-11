@@ -10,6 +10,7 @@
 
 ### Code
 
+<img src="https://github.com/llemarr42/CircuitPython/blob/main/welcome%20circuit%20python.png?raw=true" width="400">
 
 ### Image
 
