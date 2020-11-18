@@ -1,5 +1,11 @@
 # CircuitPython
-
+ The follwing files are my first foray into CircuitPython.
+## Table of Contents
+* [Table of Contents](#TableOfContents)
+* [Hello_CircuitPython](#Hello_CircuitPython)
+* [CircuitPython_Servo](#CircuitPython_Servo)
+* [CircuitPython_LCD](#CircuitPython_LCD)
+---
 
 ---
 
@@ -35,3 +41,34 @@ while True:
 I learned about the dot.fill function and how you can change the proportions of each of the primary colors to make any color you want.
 
 ---
+
+## CircuitPython_Servo
+
+### Description & Code
+
+```python
+Code goes here
+
+```
+
+### Evidence
+
+### Images
+
+### Reflection
+
+
+## CircuitPython_LCD
+
+### Description & Code
+
+```python
+Code goes here
+
+```
+
+### Evidence
+
+### Images
+
+### Reflection
