@@ -20,6 +20,6 @@ I made the metro express light flash red and green/blue
 
 ### Reflection
 
-I learned about the dot.fill function and how you can change the proportins of each of the primary colors to make any color you want.
+I learned about the dot.fill function and how you can change the proportions of each of the primary colors to make any color you want.
 
 ---
