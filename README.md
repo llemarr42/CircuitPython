@@ -11,9 +11,21 @@
 I made the metro express light flash red and green/blue
 
 ### Code
+```python
+import board
+import neopixel
+import time
 
-<img src="https://github.com/llemarr42/CircuitPython/blob/main/welcome%20circuit%20python.png?raw=true" width="300">
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
 
+while True:
+    print("Make it blue!")
+    dot.fill((0,0,255))
+    time.sleep(.5)
+    print("Make it red!")
+    dot.fill((255,0,0))
+    time.sleep(.5)
+```
 ### Image
 
 <img src="https://github.com/llemarr42/CircuitPython/blob/main/hello%20circuitpython.png?raw=true" width="250">
