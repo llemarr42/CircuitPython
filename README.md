@@ -38,7 +38,7 @@ while True:
 
 ### Reflection
 
-I learned about the dot.fill function and how you can change the proportions of each of the primary colors to make any color you want.
+I learned about the dot.fill function and how you can change the proportions of each of the primary colors to make any color you want. The order is red, green, then blue from left to right. The numbers go up to 255 for each color.
 
 ---
 
